@@ -1,0 +1,6 @@
+[user]
+	name = Kenric Young
+	email = youngkenric@protonmail.com
+	signingKey = F233DECA03B30171!
+[commit]
+	gpgsign = true
