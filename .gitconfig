@@ -4,3 +4,5 @@
 	signingKey = F233DECA03B30171!
 [commit]
 	gpgsign = true
+[credential]
+	helper = /mnt/c/Users/kenri/AppData/Local/Programs/Git\\ Credential\\ Manager/git-credential-manager-core.exe
